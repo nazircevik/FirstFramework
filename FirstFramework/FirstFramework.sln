@@ -39,6 +39,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "FirstFramework.Northwind.Wc
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "57180"
+		SlnRelativePath = "FirstFramework.Northwind.WcfService\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
