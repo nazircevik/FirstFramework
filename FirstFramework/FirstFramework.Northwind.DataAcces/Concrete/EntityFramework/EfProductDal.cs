@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace FirstFramework.Northwind.DataAcces.Concrete.EntityFramework
 {
-    class EfProductDal :EfEntityRepositoryBase<Product,NorhwindContext>, IProductDal
+   public class EfProductDal :EfEntityRepositoryBase<Product,NorthwindContext>, IProductDal
     {
        
     }

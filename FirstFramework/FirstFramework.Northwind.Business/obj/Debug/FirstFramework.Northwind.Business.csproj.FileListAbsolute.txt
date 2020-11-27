@@ -1,0 +1,6 @@
+C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.Business\bin\Debug\FirstFramework.Northwind.Business.dll
+C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.Business\bin\Debug\FirstFramework.Northwind.Business.pdb
+C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.Business\obj\Debug\FirstFramework.Northwind.Business.csprojAssemblyReference.cache
+C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.Business\obj\Debug\FirstFramework.Northwind.Business.csproj.CoreCompileInputs.cache
+C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.Business\obj\Debug\FirstFramework.Northwind.Business.dll
+C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.Business\obj\Debug\FirstFramework.Northwind.Business.pdb
