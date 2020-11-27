@@ -25,3 +25,6 @@ C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.DataAc
 C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.DataAcces\obj\Debug\FirstFramework.Northwind.DataAcces.csproj.CopyComplete
 C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.DataAcces\obj\Debug\FirstFramework.Northwind.DataAcces.dll
 C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.DataAcces\obj\Debug\FirstFramework.Northwind.DataAcces.pdb
+C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.DataAcces\bin\Debug\FluentNHibernate.dll
+C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.DataAcces\bin\Debug\FluentNHibernate.pdb
+C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.DataAcces\bin\Debug\FluentNHibernate.xml

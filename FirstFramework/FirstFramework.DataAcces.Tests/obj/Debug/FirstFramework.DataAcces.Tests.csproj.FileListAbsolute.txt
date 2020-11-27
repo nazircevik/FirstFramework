@@ -35,3 +35,6 @@ C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.DataAcces.Tests\
 C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.DataAcces.Tests\obj\Debug\FirstFramework.DataAcces.Tests.pdb
 C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.DataAcces.Tests\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.DataAcces.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.DataAcces.Tests\bin\Debug\FluentNHibernate.dll
+C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.DataAcces.Tests\bin\Debug\FluentNHibernate.pdb
+C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.DataAcces.Tests\bin\Debug\FluentNHibernate.xml
