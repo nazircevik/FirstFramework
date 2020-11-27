@@ -73,7 +73,9 @@
     <Compile Include="DataAcces\EntityFramework\EfQuerableRepository.cs" />
     <Compile Include="DataAcces\IEntityRepository.cs" />
     <Compile Include="DataAcces\IQueryableRepository.cs" />
+    <Compile Include="DataAcces\NHibernate\NhEntityRepositoryBase.cs" />
     <Compile Include="DataAcces\NHibernate\NHibernateHelper.cs" />
+    <Compile Include="DataAcces\NHibernate\NhQueryableRepository.cs" />
     <Compile Include="Entities\IEntity.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
