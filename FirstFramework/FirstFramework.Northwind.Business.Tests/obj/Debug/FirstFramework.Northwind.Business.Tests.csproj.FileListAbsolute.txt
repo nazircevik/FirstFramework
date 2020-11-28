@@ -12,3 +12,7 @@ C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.Busine
 C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.Business.Tests\obj\Debug\FirstFramework.Northwind.Business.Tests.csproj.CopyComplete
 C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.Business.Tests\obj\Debug\FirstFramework.Northwind.Business.Tests.dll
 C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.Business.Tests\obj\Debug\FirstFramework.Northwind.Business.Tests.pdb
+C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.Business.Tests\bin\Debug\PostSharp.dll
+C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.Business.Tests\bin\Debug\PostSharp.xml
+C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.Business.Tests\bin\Debug\FirstFramework.Northwind.Business.Tests.pssym
+C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.Business.Tests\obj\Debug\FirstFramework.Northwind.Business.Tests.dll.postsharp

@@ -28,3 +28,7 @@ C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.DataAc
 C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.DataAcces\bin\Debug\FluentNHibernate.dll
 C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.DataAcces\bin\Debug\FluentNHibernate.pdb
 C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.DataAcces\bin\Debug\FluentNHibernate.xml
+C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.DataAcces\bin\Debug\FluentValidation.dll
+C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.DataAcces\bin\Debug\PostSharp.dll
+C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.DataAcces\bin\Debug\FluentValidation.xml
+C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.DataAcces\bin\Debug\PostSharp.xml

@@ -20,3 +20,7 @@ C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.Entiti
 C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.Entities\obj\Debug\FirstFramework.Northwind.Entities.csproj.CopyComplete
 C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.Entities\obj\Debug\FirstFramework.Northwind.Entities.dll
 C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.Entities\obj\Debug\FirstFramework.Northwind.Entities.pdb
+C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.Entities\bin\Debug\FluentValidation.dll
+C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.Entities\bin\Debug\PostSharp.dll
+C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.Entities\bin\Debug\FluentValidation.xml
+C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.Entities\bin\Debug\PostSharp.xml

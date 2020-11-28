@@ -20,3 +20,9 @@ C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Core\obj\Debug\F
 C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Core\obj\Debug\FirstFramework.Core.csproj.CopyComplete
 C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Core\obj\Debug\FirstFramework.Core.dll
 C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Core\obj\Debug\FirstFramework.Core.pdb
+C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Core\bin\Debug\FluentValidation.dll
+C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Core\bin\Debug\PostSharp.dll
+C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Core\bin\Debug\FluentValidation.xml
+C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Core\bin\Debug\PostSharp.xml
+C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Core\bin\Debug\FirstFramework.Core.pssym
+C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Core\obj\Debug\FirstFramework.Core.dll.postsharp

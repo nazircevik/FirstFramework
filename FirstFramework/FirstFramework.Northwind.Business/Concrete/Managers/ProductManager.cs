@@ -7,6 +7,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using FirstFramework.Core;
+using FirstFramework.Core.CrossCuttingConcerns.Validation.FluentValidation;
+using FirstFramework.Northwind.Business.ValidationRules.FluentValidation;
+using FirstFramework.Core.Aspects.Postsharp;
 namespace FirstFramework.Northwind.Business.Concrete.Managers
 {
     public class ProductManager : IProductService
@@ -16,8 +19,10 @@ namespace FirstFramework.Northwind.Business.Concrete.Managers
         {
             _productDal = productDal;
         }
+        [FluentValidationAspect(typeof(ProductValidator))]
         public Product Add(Product product)
         {
+           // ValidatorTool.FluentValidate(new ProductValidator(), product);
             return _productDal.Add(product);
         }
 
@@ -29,6 +34,12 @@ namespace FirstFramework.Northwind.Business.Concrete.Managers
         public Product GetById(int id)
         {
             return _productDal.Get(p => p.ProductID == id);
+        }
+        [FluentValidationAspect(typeof(ProductValidator))]
+        public Product Update(Product product)
+        {
+           // ValidatorTool.FluentValidate(new ProductValidator(), product);
+            return _productDal.Update(product);
         }
     }
 }
