@@ -41,7 +41,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Abstract\IProductService.cs" />
+    <Compile Include="Concrete\Managers\ProductManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\FirstFramework.Core\FirstFramework.Core.csproj">
+      <Project>{7d952c77-74ea-413f-8fa9-668cfc57f13e}</Project>
+      <Name>FirstFramework.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FirstFramework.Northwind.DataAcces\FirstFramework.Northwind.DataAcces.csproj">
+      <Project>{B5BFEF7B-7B47-46C2-9619-F81774CD7429}</Project>
+      <Name>FirstFramework.Northwind.DataAcces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FirstFramework.Northwind.Entities\FirstFramework.Northwind.Entities.csproj">
+      <Project>{143B4E7B-ABFB-4BCA-8144-F795DF155E70}</Project>
+      <Name>FirstFramework.Northwind.Entities</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
