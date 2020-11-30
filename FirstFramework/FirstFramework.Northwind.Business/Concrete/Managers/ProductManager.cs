@@ -10,6 +10,9 @@ using FirstFramework.Core;
 using FirstFramework.Core.CrossCuttingConcerns.Validation.FluentValidation;
 using FirstFramework.Northwind.Business.ValidationRules.FluentValidation;
 using FirstFramework.Core.Aspects.Postsharp;
+using System.Transactions;
+using FirstFramework.Core.Aspects.Postsharp.TransacitionAspects;
+
 namespace FirstFramework.Northwind.Business.Concrete.Managers
 {
     public class ProductManager : IProductService
@@ -35,6 +38,14 @@ namespace FirstFramework.Northwind.Business.Concrete.Managers
         {
             return _productDal.Get(p => p.ProductID == id);
         }
+        [TransactionScopeAspects]
+        public void TransactionalOperation(Product product1, Product product2)
+        {
+               _productDal.Add(product1);
+               _productDal.Update(product2);
+             
+        }
+
         [FluentValidationAspect(typeof(ProductValidator))]
         public Product Update(Product product)
         {

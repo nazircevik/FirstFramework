@@ -34,3 +34,5 @@ C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.Busine
 C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.Business\obj\Debug\FirstFramework.Northwind.Business.csproj.CopyComplete
 C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.Business\bin\Debug\FirstFramework.Northwind.Business.pssym
 C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.Business\obj\Debug\FirstFramework.Northwind.Business.dll.postsharp
+C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.Business\bin\Debug\Ninject.dll
+C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.Business\bin\Debug\Ninject.xml

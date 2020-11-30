@@ -78,6 +78,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Aspects\Postsharp\FluentValidationAspect.cs" />
+    <Compile Include="Aspects\Postsharp\TransacitionAspects\TransactionScopeAspects.cs" />
     <Compile Include="CrossCuttingConcerns\Validation\FluentValidation\ValidatorTool.cs" />
     <Compile Include="DataAcces\EntityFramework\EfEntityRepositoryBase.cs" />
     <Compile Include="DataAcces\EntityFramework\EfQuerableRepository.cs" />
