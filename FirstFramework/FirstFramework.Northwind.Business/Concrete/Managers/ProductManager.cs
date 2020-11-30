@@ -12,6 +12,8 @@ using FirstFramework.Northwind.Business.ValidationRules.FluentValidation;
 using FirstFramework.Core.Aspects.Postsharp;
 using System.Transactions;
 using FirstFramework.Core.Aspects.Postsharp.TransacitionAspects;
+using FirstFramework.Core.Aspects.Postsharp.CacheAspects;
+using FirstFramework.Core.CrossCuttingConcerns.Caching.Microsoft;
 
 namespace FirstFramework.Northwind.Business.Concrete.Managers
 {
@@ -23,12 +25,14 @@ namespace FirstFramework.Northwind.Business.Concrete.Managers
             _productDal = productDal;
         }
         [FluentValidationAspect(typeof(ProductValidator))]
+        [CacheRemoveAspects(typeof(MemoryCacheMenager))]
         public Product Add(Product product)
         {
            // ValidatorTool.FluentValidate(new ProductValidator(), product);
             return _productDal.Add(product);
         }
 
+        [CacheAspect(typeof(MemoryCacheMenager))]
         public List<Product> GetAll()
         {
             return _productDal.GetList();

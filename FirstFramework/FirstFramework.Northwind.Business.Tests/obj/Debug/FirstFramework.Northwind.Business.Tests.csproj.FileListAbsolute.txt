@@ -51,3 +51,6 @@ C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.Busine
 C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.Business.Tests\bin\Debug\Remotion.Linq.EagerFetching.xml
 C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.Business.Tests\bin\Debug\Antlr3.Runtime.xml
 C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.Business.Tests\bin\Debug\Iesi.Collections.xml
+C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.Business.Tests\bin\Debug\Ninject.dll
+C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.Business.Tests\bin\Debug\FirstFramework.Northwind.Business.dll.config
+C:\Users\HP\github\FirstFramework\FirstFramework\FirstFramework.Northwind.Business.Tests\bin\Debug\Ninject.xml
